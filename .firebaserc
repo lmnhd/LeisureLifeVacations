@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "leisurelifevactest"
+  },
+  "targets": {
+    "leisurelifevactest": {
+      "hosting": {
+        "Leisure-Life-Vacations": [
+          "leisurelifevactest"
+        ]
+      }
+    }
+  }
+}
